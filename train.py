@@ -1,7 +1,7 @@
 import tensorflow as tf
 import argparse
-from model.model import SlowMo
-from model.losses import Losses
+from slomo.model import SlowMo
+from losses import Losses
 from dataset_loader  import *
 from pathlib import Path
 import datetime

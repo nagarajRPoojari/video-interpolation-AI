@@ -1,6 +1,6 @@
 import tensorflow as tf
 import numpy as np
-from model.layers import *
+from layers import *
 
 class SlowMo(tf.keras.Model):
     def __init__(self, num_frames=12, **kwargs):
