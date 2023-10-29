@@ -5,11 +5,14 @@ This project implements state-of-the-art model Vision Transformer for video fram
 
 ## Table of Contents
 
-- [Introduction](#Introduction)
-- [Demo](Ddemo)
-- [Results](#Results)
-- [Contributing](#Contributing)
-- [License](#License)
+- [Introduction](#introduction)
+- [Demo](#demo)
+- [Results](#results)
+
+
+
+
+- [License](#license)
 
 ## Introduction
   Here I implemented VIFT and Super Slomo model as published in these paper, paper respectively .
@@ -28,11 +31,10 @@ This project implements state-of-the-art model Vision Transformer for video fram
 
 <div style="display: flex; align-items: center;" >
   <img src='https://github.com/nagarajRPoojari/video-interpolation-AI/assets/116948655/1b31f647-ece1-4400-98dc-03305d0e35d3'>
-  <p> hi dfjjbsbdf</p>
 </div>
 
 
-## Result
+## Results
 
 | model / metric  | Parameters (M) |  PSNR ( peek-signal-to-noise-ration ) | SSMI ( structural similarity index ) |
 |-----------------|----------------|---------------------------------------|--------------------------------------|
@@ -40,7 +42,7 @@ This project implements state-of-the-art model Vision Transformer for video fram
 | Super Slomo     |       38       |                31.4                   |                  0.94                |
 | VIFT            |       7        |                35.1                   |                  0.96                |
 
-## Licence
+## License
 This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
 
 
