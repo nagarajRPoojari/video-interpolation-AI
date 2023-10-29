@@ -11,7 +11,7 @@ This project implements state-of-the-art model Vision Transformer for video fram
 - [License](#license)
 
 ## Introduction
-  Here I implemented VIFT and Super Slomo model as published in these paper, paper respectively .
+  Here I implemented VIFT and Super Slomo model as published in these [vift](https://arxiv.org/abs/2111.13817), [slomo](https://arxiv.org/abs/1712.00080) respectively .
 - Deep Voxel Flow
     - uses Optical flow & CNN approach
     - unable to handle complex motions
@@ -37,6 +37,13 @@ This project implements state-of-the-art model Vision Transformer for video fram
 | Deep voxel flow |       -        |                27.6                   |                  0.92                |
 | Super Slomo     |       38       |                31.4                   |                  0.94                |
 | VIFT            |       7        |                35.1                   |                  0.96                |
+
+## References
+  - [Video Frame Interpolation Transformer](https://arxiv.org/abs/2111.13817)
+  - [Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation](https://arxiv.org/abs/1712.00080)
+  - [Video Frame Synthesis using Deep Voxel Flow](https://arxiv.org/abs/1702.02463)
+  - [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/abs/2103.14030)
+
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
