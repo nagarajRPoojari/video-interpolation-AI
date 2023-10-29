@@ -1,5 +1,5 @@
 
-# Vision Transformer for video interolation 
+# Vision Transformer for video interolation 🤖📷✌️
 
 This project implements state-of-the-art model Vision Transformer for video frame interpolation to increase its FPS , and compares its performance with traditional approaches like Deep Voxel flow , Super slomo model.
 
@@ -8,10 +8,6 @@ This project implements state-of-the-art model Vision Transformer for video fram
 - [Introduction](#introduction)
 - [Demo](#demo)
 - [Results](#results)
-
-
-
-
 - [License](#license)
 
 ## Introduction
