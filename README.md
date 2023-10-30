@@ -1,5 +1,5 @@
 
-# Vision Transformer for video interolation 🤖📷✌️
+# Vision Transformer for video interpolation 🤖📷✌️
 
 This project implements state-of-the-art model Vision Transformer for video frame interpolation to increase its FPS , and compares its performance with traditional approaches like Deep Voxel flow , Super slomo model.
 
@@ -32,7 +32,7 @@ This project implements state-of-the-art model Vision Transformer for video fram
 
 ## Results
 
-| model / metric  | Parameters (M) |  PSNR ( peek-signal-to-noise-ration ) | SSMI ( structural similarity index ) |
+| model / metric  | Parameters (M) |  PSNR ( peek-signal-to-noise-ratio ) | SSMI ( structural similarity index ) |
 |-----------------|----------------|---------------------------------------|--------------------------------------|
 | Deep voxel flow |       -        |                27.6                   |                  0.92                |
 | Super Slomo     |       38       |                31.4                   |                  0.94                |
